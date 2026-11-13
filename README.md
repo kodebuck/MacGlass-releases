@@ -15,15 +15,21 @@ Run it and click **Install**. MacGlass starts straight away and from then on sta
 
 ## ✨ What you get
 
-- **Glass dock.** Icons magnify under the pointer. You can pin your apps, drag to reorder and drop files onto apps. Downloads and Recycle Bin stacks sit at the end.
+- **Real frosted glass.** The dock, top bar and panels blur whatever is behind them. Five themes, including **Pure glass**, which is clear glass with no colour of its own.
+- **Glass dock.** Icons magnify under the pointer. You can pin your apps, drag to reorder and drop files onto apps. Hold a dragged file over an app's icon and its window comes forward, so you can drop the file anywhere in it; if the app isn't open, it opens. Downloads and Recycle Bin stacks sit at the end.
 - **Windows that fly into the dock.** Minimized windows shrink into their own dock icon and come back from it.
 - **Window previews and jump lists.** Hover a running app to see its windows. Right-click it for recent files and tasks.
 - **Top bar.** It shows the app you're in plus Wi-Fi, sound, battery, keyboard language, clock and calendar, and all your tray icons. Icons you choose to always show sit right on the bar. A Control Center has quick settings.
+- **Mac-style notifications.** Banners slide in at the top (you choose where), and a bell on the top bar opens the list. **Win+N** opens it too.
+- **Mac-style volume and brightness pop-ups.** The volume keys change the volume in sixteen steps like a Mac.
+- **Privacy and system indicators.** The top bar shows when an app uses the microphone, camera or location, and when Windows needs a restart for an update.
+- **On-screen keyboard.** It's one click away on the top bar, with Mac keyboard colours.
 - **All apps (Launchpad-style).** Every app on the PC, in the same folders as the Start menu, with search.
 - **Spotlight-style search.** Press **Alt+Space**.
 - **Everything the taskbar does:**
   - Win+1…9 opens the matching dock app;
   - Win+B opens the tray icons;
+  - Win+T moves through the dock with the arrow keys;
   - Shift-click or middle-click opens a new window;
   - apps that need attention bounce in the dock;
   - USB drives can be ejected from the top bar;
