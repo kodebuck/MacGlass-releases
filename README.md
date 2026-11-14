@@ -16,7 +16,7 @@ Run it and click **Install**. MacGlass starts straight away and from then on sta
 ## ✨ What you get
 
 - **Real frosted glass.** The dock, top bar and panels blur whatever is behind them. Five themes, including **Pure glass**, which is clear glass with no colour of its own.
-- **Glass dock.** Icons magnify under the pointer. You can pin your apps, drag to reorder and drop files onto apps. Hold a dragged file over an app's icon and its window comes forward, so you can drop the file anywhere in it; if the app isn't open, it opens. Downloads and Recycle Bin stacks sit at the end.
+- **Glass dock.** Icons magnify under the pointer. You can pin your apps, drag to reorder and drop files onto apps. Hold a dragged file over an app's icon and its window comes forward, so you can drop the file anywhere in it; if the app isn't open, it opens. Drop any folder on the dock to keep it as a stack, next to Downloads and the Recycle Bin. Red badges show an app's new notifications.
 - **Windows that fly into the dock.** Minimized windows shrink into their own dock icon and come back from it.
 - **Window previews and jump lists.** Hover a running app to see its windows. Right-click it for recent files and tasks.
 - **Top bar.** It shows the app you're in plus Wi-Fi, sound, battery, keyboard language, clock and calendar, and all your tray icons. Icons you choose to always show sit right on the bar. A Control Center has quick settings.
@@ -25,7 +25,9 @@ Run it and click **Install**. MacGlass starts straight away and from then on sta
 - **Privacy and system indicators.** The top bar shows when an app uses the microphone, camera or location, and when Windows needs a restart for an update.
 - **On-screen keyboard.** It's one click away on the top bar, with Mac keyboard colours.
 - **All apps (Launchpad-style).** Every app on the PC, in the same folders as the Start menu, with search.
-- **Spotlight-style search.** Press **Alt+Space**.
+- **Spotlight-style search.** Press **Alt+Space**. It finds apps, Windows settings and system tools, your recent files and files in your folders, newest first. The Start menu searches the same way.
+- **Mac-style app switcher.** **Alt+Tab** shows your open apps as big icons, one per app, like Cmd+Tab.
+- **Quick Look.** Select a file or folder in File Explorer and press **Space** to preview it.
 - **Everything the taskbar does:**
   - Win+1…9 opens the matching dock app;
   - Win+B opens the tray icons;
@@ -35,7 +37,7 @@ Run it and click **Install**. MacGlass starts straight away and from then on sta
   - USB drives can be ejected from the top bar;
   - right-click the top bar for Task Manager.
 - **Smart hiding.** The dock and top bar step aside when a window needs the space. Rest the pointer at the screen edge to bring them back; you can set how high and how wide that rest spot is.
-- **Second monitor support, themes and animation speed.** All of it is in **Settings**.
+- **Second monitor support, themes and animation speed.** All of it is in **Settings**, including following Windows' light and dark mode. After each update, a short **What's new** window shows what was added.
 
 ## ↩️ Going back to the normal taskbar
 
